@@ -1,6 +1,0 @@
-Alumnos: Joaquin Preiti y Victoria Taño
-Cuatrimestre: Primero
-Comisíon: Diseño y Programacion Web
-Turno: Tarde
-Materja: Programacion I
-Profesor: Carlos Ferrer
